@@ -1,26 +1,17 @@
-# Projects
+# My Projects
 
-Add clear, honest descriptions of academic and personal projects.
+## Project 1: SatQuery AI
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+- **Problem:** Analysing satellite imagery and identifying changes can be difficult and time-consuming.
+- **Solution:** Developed a web-based concept for exploring satellite imagery and presenting analysis results.
+- **Technologies:** React, JavaScript, Tailwind CSS, Node.js, MongoDB.
+- **My Contribution:** Worked on the project interface and dashboard features.
+- **Possible Improvement:** Improve the accuracy of image analysis and add more satellite data sources.
 
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
+## Project 2: Smart Bus Safety System
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+- **Problem:** Bus accidents and emergencies require faster detection and location tracking.
+- **Solution:** Designed an IoT-based system concept to detect emergencies and share location information.
+- **Technologies:** ESP32, GPS, sensors, IoT.
+- **My Contribution:** Worked on the project design and system feature planning.
+- **Possible Improvement:** Add real-time alerts and improve sensor reliability.

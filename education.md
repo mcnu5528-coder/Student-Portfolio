@@ -1,10 +1,12 @@
 # Education
 
 ## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+
+- **Branch:** Computer Science and Engineering (CSE)
+- **Institution:** Aditya University, Surampalem
+- **Roll Number:** 25B11CS205
+- **Study period:** 2025–2029
+- **CGPA / Percentage:** 6
 
 ## Relevant Coursework
 - Programming Fundamentals
@@ -14,5 +16,8 @@
 - Software Engineering
 
 ## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+- Learn Object-Oriented Programming in C++
+- Full Stack Web Development
+- Software Engineer Role Certification — HackerRank
+- Arduino Days 2026 — Certificate of Participation
+- SPARK 7.0 Pitch Marathon — Certificate of Appreciation

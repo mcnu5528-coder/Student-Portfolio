@@ -2,10 +2,10 @@
 
 Use only professional contact information you are comfortable making public.
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** Add your profile URL if available
-- **Location:** Optional — city or region only
+- **Name:** D. Supriya
+- **Email:** 25p35a0544@acet.ac.in
+- **GitHub:** https://github.com/MissBeloved
+- **LinkedIn:** https://linkedin.com/in/dongasupriya
+- **Location:** Rjy
 
 **Privacy reminder:** Do not publish your home address, passwords, access tokens, or other sensitive information in a public repository.

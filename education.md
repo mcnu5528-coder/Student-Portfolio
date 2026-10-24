@@ -2,9 +2,9 @@
 
 ## Bachelor of Technology (B.Tech)
 - **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+- **Institution:** Aditya College of Enginnering and Technology
+- **Study period:** 2025–2028
+- **CGPA / Percentage:** 8.8
 
 ## Relevant Coursework
 - Programming Fundamentals
@@ -14,5 +14,7 @@
 - Software Engineering
 
 ## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+- Verified HTML and CSS certification issued by certiport
+- Particpated in SIH internal hackthon 2026
+- Particpated in Amazon ML challenge 2026
+- Particpated as coordinator in SIH internal Hackthon

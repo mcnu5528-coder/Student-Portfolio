@@ -1,18 +1,29 @@
 # Education
 
 ## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+- **Degree:** Bachelor of Technology (B.Tech.)
+- **Department:** Artificial Intelligence and Machine Learning (AI & ML)
+- **Institution:** Aditya University, Surampalem, Andhra Pradesh
+- **Study Period:** 2024 – 2028
+- **Academic Standing:** Consistent academic performance in core computing disciplines
+
+## Professional Internship
+- **Role:** Full-Stack & AI/ML Developer Intern
+- **Organization:** Technical Hub Pvt. Ltd., Surampalem
+- **Duration:** 04 May 2026 – 26 June 2026
+- **Key Project:** *CertiHub — An AI-Powered Credential Verification and Career Intelligence Platform*
+- **Outcome:** Successfully developed automated credential validation and earned official Internship Completion Certificate under university guidance.
 
 ## Relevant Coursework
-- Programming Fundamentals
+- Problem Solving & Programming in C/Python
 - Data Structures and Algorithms
-- Database Management Systems
-- Computer Networks
-- Software Engineering
+- Object-Oriented Programming (Java / C++)
+- Database Management Systems (SQL & Relational Design)
+- Operating Systems and Computer Organization
+- Software Engineering & Collaborative Workflows
 
 ## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+- **Internship Completion Certificate:** Full-Stack Development and AI Solutions — Technical Hub (June 2026)
+- **Git & GitHub Version Control:** Certified hands-on collaborative practical workflows (October 2026)
+- **Python for Data Science & AI:** Comprehensive foundations course completion
+

@@ -1,34 +1,31 @@
 # Student Portfolio
 
-A beginner-friendly portfolio website for practising Git and GitHub workflows.
+A personal portfolio website and Git/GitHub practical assessment project.
 
-## Project contents
+## Author Details
+- **Name:** Desina Rohit
+- **Roll Number:** 24B11AI084
+- **Branch:** B.Tech Artificial Intelligence and Machine Learning (AI & ML)
+- **Institution:** Aditya University, Surampalem, Andhra Pradesh
+- **GitHub Profile:** [https://github.com/DangerRohit84](https://github.com/DangerRohit84)
+
+## Project Contents
 - `index.html` — main portfolio webpage
 - `style.css` — page styling
-- `about.md` — introduction and career objective
-- `skills.md` — technical skills
+- `about.md` — background, career objectives, and interests
+- `skills.md` — technical skills and competencies
 - `projects.md` — academic and personal project descriptions
-- `education.md` — education and achievements
+- `education.md` — education, coursework, and achievements
 - `contact.md` — professional contact information
-- `contributions/` — individual student Git/GitHub learning notes
+- `contributions/` — student Git and GitHub learning notes
 - `.gitignore` — files Git should ignore
 
-## View the website
-Open `index.html` in a web browser. No backend or installation is required.
+## View the Website
+Open `index.html` in a web browser. No backend or external build tools are required.
 
-## GitHub practical assessment
-1. Fork the repository to your GitHub account.
-2. Clone your fork to your computer.
-3. Create a branch named `improve-documentation`.
-4. Add a uniquely named Markdown file inside `contributions/`, using your roll number as the filename, for example `YOUR_ROLL_NUMBER.md`.
-5. Commit and push the change to your fork.
-6. Submit your fork URL to the trainer.
+## GitHub Practical Assessment Workflows
+1. **Repository Setup:** Local initialization, remote connection to GitHub, and initial commit on `main`.
+2. **Feature Branching (`add-projects`):** Documented featured projects (`CertiHub` and `Celebration Event Planner`) in `projects.md`, opened a Pull Request, and merged into `main`.
+3. **Certifications & Skills Branch (`add-certifications`):** Updated `skills.md` and `education.md` with technical coursework and achievements, opened a Pull Request, and merged into `main`.
+4. **Fork Collaboration (`improve-documentation`):** Forked upstream repository, created `contributions/24B11AI084.md`, and contributed learning reflections.
 
-## Contribution file requirements
-Your file should include:
-- Name and roll number
-- Three Git commands and what they do
-- The purpose of GitHub
-- One benefit of using branches
-
-**Important:** Replace placeholders with appropriate information. Do not publish passwords, access tokens, API keys, home addresses, or other sensitive information.

@@ -1,18 +1,19 @@
 # About Me
 
 ## Introduction
-I am **Your Name**, a B.Tech student in Computer Science and Engineering at **Your College Name**.
+I am **Desina Rohit**, a B.Tech student in Artificial Intelligence and Machine Learning (AI & ML) at **Aditya University, Surampalem**.
 
 ## Career Objective
-To begin my career as a software developer, apply my programming and problem-solving skills, and continue learning through real-world projects.
+To begin my career as an AI/ML Engineer and Software Developer, applying my programming, analytical, and full-stack development skills to build intelligent, scalable solutions and learn through real-world software projects.
 
 ## Interests
+- Artificial Intelligence and Machine Learning
 - Data Structures and Algorithms
-- Java and Python programming
-- Web development
+- Full-Stack Web Development (Python, React, JavaScript)
 - Open-source collaboration with Git and GitHub
 
 ## Current Learning Goals
-1. Practise coding problems consistently.
-2. Build and document small projects.
-3. Learn collaborative development workflows.
+1. Strengthen problem-solving skills through algorithmic practice.
+2. Build and document full-stack AI/ML applications.
+3. Master production Git branching workflows and continuous integration.
+

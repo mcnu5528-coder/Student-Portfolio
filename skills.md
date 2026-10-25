@@ -1,23 +1,47 @@
 # Technical Skills
 
-Replace these examples with skills you can confidently discuss in an interview.
-
 ## Programming Languages
-- Java — Beginner / Intermediate
-- Python — Beginner / Intermediate
-- C — Beginner
+- C
+- C++
+- Python
+- Java
+- SQL
 
 ## Web Technologies
-- HTML
-- CSS
-- JavaScript (currently learning)
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Flask
+- REST APIs
+- JSON
+
+## Databases
+- Oracle SQL
+- MySQL
+- SQLite
+- Relational Database Design
+- DBMS Concepts
+
+## Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Data Cleaning and Visualization
 
 ## Developer Tools
 - Git
 - GitHub
 - Visual Studio Code
 
-## Skills to Improve
+## Other Technical Interests
+- Object-Oriented Programming
+- File Handling
+- Modular C++ Development
+- Prompt Engineering
+
+## Skills I Am Developing
 - Data Structures and Algorithms
-- SQL and database fundamentals
-- Testing and debugging
+- Software Testing and Debugging
+- Advanced SQL Queries
+- Collaborative Software Development

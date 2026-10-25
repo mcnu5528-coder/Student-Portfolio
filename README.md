@@ -1,34 +1,45 @@
-# Student Portfolio
+# Tripura Kilaparthi — Student Portfolio
 
-A beginner-friendly portfolio website for practising Git and GitHub workflows.
+A personalized student portfolio showcasing my technical skills, education, certifications, internship experience, and academic projects.
 
-## Project contents
-- `index.html` — main portfolio webpage
-- `style.css` — page styling
-- `about.md` — introduction and career objective
-- `skills.md` — technical skills
-- `projects.md` — academic and personal project descriptions
-- `education.md` — education and achievements
-- `contact.md` — professional contact information
-- `contributions/` — individual student Git/GitHub learning notes
-- `.gitignore` — files Git should ignore
+## About the Project
 
-## View the website
-Open `index.html` in a web browser. No backend or installation is required.
+This portfolio was customized using HTML, CSS, and Markdown to present my software development interests and project experience.
 
-## GitHub practical assessment
-1. Fork the repository to your GitHub account.
+## Project Contents
+
+- `index.html` — Main portfolio webpage
+- `style.css` — Website styling and responsive layout
+- `about.md` — Introduction and career objective
+- `skills.md` — Technical skills
+- `projects.md` — Project descriptions
+- `education.md` — Education and achievements
+- `contact.md` — Professional contact information
+- `contributions/` — Git and GitHub practical assessment notes
+- `.gitignore` — Files excluded from version control
+
+## Technologies Used
+
+HTML5, CSS3, Markdown, Git, and GitHub.
+
+## How to View the Website
+
+1. Clone or download the repository.
+2. Open the project folder in Visual Studio Code.
+3. Open `index.html` in a web browser.
+
+No backend or package installation is required.
+
+## GitHub Practical Assessment
+
+1. Fork the original repository to your GitHub account.
 2. Clone your fork to your computer.
-3. Create a branch named `improve-documentation`.
-4. Add a uniquely named Markdown file inside `contributions/`, using your roll number as the filename, for example `YOUR_ROLL_NUMBER.md`.
-5. Commit and push the change to your fork.
-6. Submit your fork URL to the trainer.
+3. Create and switch to the `improve-documentation` branch.
+4. Create a Markdown file inside `contributions/` using your roll number as the filename.
+5. Document three Git commands, the purpose of GitHub, and one benefit of branches.
+6. Commit and push your changes to your fork.
+7. Verify the changes on GitHub and submit your fork URL to the trainer.
 
-## Contribution file requirements
-Your file should include:
-- Name and roll number
-- Three Git commands and what they do
-- The purpose of GitHub
-- One benefit of using branches
+## Privacy
 
-**Important:** Replace placeholders with appropriate information. Do not publish passwords, access tokens, API keys, home addresses, or other sensitive information.
+Do not publish passwords, access tokens, API keys, home addresses, or other sensitive information.

@@ -1,71 +1,184 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Student Portfolio | Your Name</title>
+  <meta name="description" content="Tripura Kilaparthi's student portfolio showcasing software development skills, projects, education and achievements.">
+  <title>Tripura Kilaparthi | Student Portfolio</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="hero">
+  <header class="hero" id="home">
     <nav aria-label="Main navigation">
-      <a class="brand" href="#home">MyPortfolio</a>
+      <a class="brand" href="#home">Tripura.dev</a>
       <div class="nav-links">
         <a href="#about">About</a>
         <a href="#skills">Skills</a>
         <a href="#projects">Projects</a>
+        <a href="#education">Education</a>
         <a href="#contact">Contact</a>
       </div>
     </nav>
-    <section id="home" class="hero-content">
-      <p class="eyebrow">B.Tech Student • Aspiring Software Developer</p>
-      <h1>Hello, I'm <span>Your Name</span></h1>
-      <p class="intro">I enjoy solving problems, learning new technologies, and building useful software.</p>
-      <a class="button" href="#projects">Explore My Work</a>
+
+    <section class="hero-content">
+      <p class="eyebrow">B.Tech AIML Student | Aspiring Software Engineer</p>
+      <h1>Hello, I'm <span>Tripura Kilaparthi</span></h1>
+      <p class="intro">
+        I build practical software solutions using programming,
+        web technologies, databases, and data analysis.
+        I enjoy learning, solving problems, and collaborating on projects.
+      </p>
+      <a class="button" href="#projects">Explore My Projects</a>
     </section>
   </header>
 
   <main class="container">
     <section id="about" class="panel">
       <h2>About Me</h2>
-      <p>I am a computer science student interested in programming, data structures, web development, and collaborative software development.</p>
-      <p>My current goal is to strengthen my problem-solving skills and contribute to projects that solve practical problems.</p>
+      <p>
+        I am a second-year B.Tech Artificial Intelligence and Machine
+        Learning student at Aditya University. I am interested in
+        software engineering, application development, database design,
+        and data analysis.
+      </p>
+      <p>
+        I completed a Web Development Internship at Anurag IT Solutions
+        and have contributed to academic group projects using C++,
+        Python, Flask, SQLite, and Oracle SQL.
+      </p>
+      <p>
+        My goal is to strengthen my technical skills and contribute
+        to meaningful software projects and internship opportunities.
+      </p>
     </section>
+
     <section id="skills" class="panel">
-      <h2>Skills</h2>
+      <h2>Technical Skills</h2>
       <div class="chips">
-        <span>Java</span><span>Python</span><span>HTML</span><span>CSS</span><span>Git</span><span>GitHub</span>
+        <span>C</span>
+        <span>C++</span>
+        <span>Python</span>
+        <span>Java</span>
+        <span>SQL</span>
+        <span>HTML5</span>
+        <span>CSS3</span>
+        <span>JavaScript</span>
+        <span>Bootstrap</span>
+        <span>Flask</span>
+        <span>Oracle SQL</span>
+        <span>MySQL</span>
+        <span>SQLite</span>
+        <span>Pandas</span>
+        <span>NumPy</span>
+        <span>Matplotlib</span>
+        <span>Git</span>
+        <span>GitHub</span>
       </div>
-      <p class="hint">Update this list to reflect your current skills and learning goals.</p>
+      <p class="hint">
+        Continuously improving my programming, database, and
+        software development skills.
+      </p>
     </section>
+
     <section id="projects" class="panel">
       <h2>Featured Projects</h2>
       <div class="project-grid">
         <article class="project-card">
-          <h3>Student Attendance Tracker</h3>
-          <p>A simple application concept for recording attendance and generating attendance summaries.</p>
-          <p><strong>Technologies:</strong> Java, CSV files</p>
+          <h3>Wastage Hub</h3>
+          <p>
+            A full-stack platform connecting community users with
+            waste exchange and collection initiatives.
+          </p>
+          <p><strong>Technologies:</strong> Flask, SQLite, JavaScript, JWT</p>
         </article>
+
         <article class="project-card">
-          <h3>Personal Portfolio Website</h3>
-          <p>A responsive website that introduces a student, highlights skills, and presents project work.</p>
-          <p><strong>Technologies:</strong> HTML, CSS, Git</p>
+          <h3>Student Progress Tracker</h3>
+          <p>
+            A menu-driven C++ application for managing student
+            coding progress with persistent file storage.
+          </p>
+          <p><strong>Technologies:</strong> C++, OOP, File Handling</p>
+        </article>
+
+        <article class="project-card">
+          <h3>Academic Management System</h3>
+          <p>
+            A relational database for managing departments, students,
+            faculty, courses, enrollments, and results.
+          </p>
+          <p><strong>Technologies:</strong> Oracle SQL, DBMS</p>
+        </article>
+
+        <article class="project-card">
+          <h3>Student Performance Analysis</h3>
+          <p>
+            An analysis project exploring student academic data
+            through processing and visualization.
+          </p>
+          <p><strong>Technologies:</strong> Python, Pandas, NumPy, Matplotlib</p>
         </article>
       </div>
-      <p class="hint">See <code>projects.md</code> for editable project descriptions.</p>
+      <p class="hint">
+        Read projects.md for detailed project descriptions.
+      </p>
     </section>
-    <section class="panel">
+
+    <section id="education" class="panel">
       <h2>Education</h2>
-      <p><strong>B.Tech — Computer Science and Engineering</strong></p>
-      <p>Your College Name | Expected graduation: 20XX</p>
+      <h3>B.Tech — Artificial Intelligence and Machine Learning</h3>
+      <p>Aditya University</p>
+      <p>Second-year student | Lateral Entry</p>
+      <p class="hint">
+        Relevant coursework: C++, Data Structures, DBMS, SQL,
+        and Software Engineering.
+      </p>
+
+      <h3>Certifications and Achievements</h3>
+      <ul>
+        <li>HackerRank SQL (Intermediate)</li>
+        <li>Oracle Academy Database Foundations</li>
+        <li>Prompt Engineering — Coursera / Vanderbilt University</li>
+        <li>VEDA 2K26 – TECHNOVA SQL Nexus participant</li>
+        <li>Smart India Hackathon 2026 project participant</li>
+      </ul>
+      <p class="hint">
+        See education.md for additional certifications and activities.
+      </p>
     </section>
+
     <section id="contact" class="panel">
-      <h2>Contact</h2>
-      <p>Email: your.email@example.com</p>
-      <p>GitHub: <a href="https://github.com/">Your GitHub profile</a></p>
-      <p class="hint">Use professional contact details you are comfortable sharing publicly.</p>
+      <h2>Let's Connect</h2>
+      <p>
+        I am interested in connecting with developers, mentors,
+        and technology professionals.
+      </p>
+      <p>
+        Email:
+        <a href="mailto:tripurakilaparthi@gmail.com">
+          tripurakilaparthi@gmail.com
+        </a>
+      </p>
+      <p>
+        GitHub:
+        <a href="https://github.com/Tripurakilaparthi"
+           target="_blank" rel="noopener noreferrer">
+          View GitHub Profile
+        </a>
+      </p>
+      <p>
+        LinkedIn:
+        <a href="https://www.linkedin.com/in/tripura-kilaparthi-204205354"
+           target="_blank" rel="noopener noreferrer">
+          View LinkedIn Profile
+        </a>
+      </p>
     </section>
   </main>
-  <footer><p>Built by Your Name • Student Portfolio Git practice project</p></footer>
+
+  <footer>
+    <p>Built by Tripura Kilaparthi | Student Portfolio</p>
+  </footer>
 </body>
 </html>

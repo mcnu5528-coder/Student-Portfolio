@@ -1,18 +1,31 @@
 # About Me
 
 ## Introduction
-I am **Your Name**, a B.Tech student in Computer Science and Engineering at **Your College Name**.
+I am Tripura Kilaparthi, a second-year B.Tech student specializing in Artificial Intelligence and Machine Learning at Aditya University.
 
 ## Career Objective
-To begin my career as a software developer, apply my programming and problem-solving skills, and continue learning through real-world projects.
+I aspire to build a career in software engineering by applying my programming, web development, and database management skills to real-world problems. I have practical experience as a Web Development Intern at Anurag IT Solutions and have collaborated on academic projects involving full-stack development, C++, SQL, and Python-based data analysis.
 
-## Interests
+## Technical Interests
+- Software Engineering and Application Development
 - Data Structures and Algorithms
-- Java and Python programming
-- Web development
-- Open-source collaboration with Git and GitHub
+- Web Development and REST APIs
+- Database Design and SQL
+- Data Analysis and Visualization
 
 ## Current Learning Goals
-1. Practise coding problems consistently.
-2. Build and document small projects.
-3. Learn collaborative development workflows.
+1. Practise coding problems and strengthen problem-solving skills.
+2. Develop practical applications and improve existing projects.
+3. Improve Git and GitHub collaboration workflows.
+4. Learn advanced programming and software development concepts.
+
+I am eager to learn, collaborate with other developers, and explore software engineering internship opportunities.
+
+## Core Technologies
+**Languages:** C, C++, Python, Java, SQL
+
+**Web Development:** HTML5, CSS3, JavaScript, Bootstrap, Flask, REST APIs, JSON
+
+**Databases:** Oracle SQL, MySQL, SQLite
+
+**Tools and Libraries:** Git, GitHub, VS Code, Pandas, NumPy, Matplotlib

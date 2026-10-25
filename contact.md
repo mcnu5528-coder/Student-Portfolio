@@ -1,11 +1,14 @@
 # Contact
 
-Use only professional contact information you are comfortable making public.
+I welcome opportunities to connect with fellow developers, mentors, and technology professionals.
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** Add your profile URL if available
-- **Location:** Optional — city or region only
+- **Name:** Tripura Kilaparthi
+- **Email:** tripurakilaparthi@gmail.com
+- **University Email:** 26b21ai054@adityauniversity.in
+- **GitHub:** [Tripura Kilaparthi](https://github.com/Tripurakilaparthi)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tripura-kilaparthi-204205354)
 
-**Privacy reminder:** Do not publish your home address, passwords, access tokens, or other sensitive information in a public repository.
+## Professional Interests
+Software Engineering, Web Development, Database Management, and Data Analysis.
+
+**Privacy Note:** Please use professional contact information only. Do not publish passwords, access tokens, home addresses, or other sensitive information.

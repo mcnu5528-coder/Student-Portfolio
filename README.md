@@ -1,6 +1,7 @@
-# Student Portfolio
+# Harika Padala - Student Portfolio
 
 A beginner-friendly portfolio website for practising Git and GitHub workflows.
+Created by Harika Padala from Dowlaiswaram , AndhraPradesh
 
 ## Project contents
 - `index.html` — main portfolio webpage

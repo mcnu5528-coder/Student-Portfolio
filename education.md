@@ -16,3 +16,11 @@
 ## Achievements and Certifications
 - Add verified certifications, hackathons, awards, or academic achievements.
 - Include the year and issuing organisation where relevant.
+  # Education & Achievements
+
+## Education
+- **Coursework:** Web Development Workshop, Git & GitHub Version Control Fundamentals (2026)
+
+## Certifications & Achievements
+- **Certification:** Responsive Web Design Foundations
+- **Achievement:** Successfully completed the Git/GitHub collaborative workshop assignment.

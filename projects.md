@@ -24,3 +24,10 @@ Add clear, honest descriptions of academic and personal projects.
 - **My contribution:**
 - **What I learned:**
 - **Future improvement:**
+## Project 3: E-Commerce Product Catalog
+- **Name:** EcoShop Catalog
+- **Problem:** Small local eco-friendly businesses struggle to display their inventory dynamically online without expensive software.
+- **Solution:** A lightweight, searchable product directory website built entirely using frontend web technologies.
+- **Technologies:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6).
+- **Your Contribution:** Developed the text search and category filtering functionality on the catalog page.
+- **Possible Improvement:** Integrate a simulated

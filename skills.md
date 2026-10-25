@@ -21,3 +21,14 @@ Replace these examples with skills you can confidently discuss in an interview.
 - Data Structures and Algorithms
 - SQL and database fundamentals
 - Testing and debugging
+  # Technical Skills & Learning Goals
+
+## Technical Skills
+- **Frontend:** HTML5, CSS3, JavaScript (ES6)
+- **Version Control:** Git, GitHub
+- **Tools & Environments:** VS Code, Command Line Interface
+
+## Learning Goals
+- Master asynchronous JavaScript and API integration.
+- Learn a backend runtime environment like Node.js.
+- Understand responsive UI frameworks like Tailwind CSS.

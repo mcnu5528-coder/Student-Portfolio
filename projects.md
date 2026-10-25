@@ -1,26 +1,28 @@
 # Projects
 
-Add clear, honest descriptions of academic and personal projects.
+## Project 1: Bakery Portfolio Website
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+- **Problem:** Local bakeries need an attractive online presence to showcase their cakes and products.
+- **Solution:** Created a beautiful Bakery Portfolio Website with Home, Menu, About, and Contact sections with images and attractive design.
+- **Technologies:** HTML, CSS, JavaScript
+- **My contribution:** Designed the full UI, created the menu section with product cards, added image gallery and contact form.
+- **What I learned:** HTML, CSS layout, JavaScript interactivity, responsive design, and UI/UX basics.
+- **Future improvement:** Add online ordering system and cart feature.
 
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
+## Project 2: Bus Tracking System
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+- **Problem:** Students face difficulty in knowing the exact location and timing of college buses.
+- **Solution:** Developed a Bus Tracking System to track bus location in real-time and display bus routes and timings to students.
+- **Technologies:** HTML, CSS, JavaScript, Google Maps API
+- **My contribution:** Designed the tracking interface, integrated map view, and added route and timing details for buses.
+- **What I learned:** Real-time data handling, Maps integration, frontend development, and problem solving.
+- **Future improvement:** Add live GPS tracking and notification alerts for students.
+
+## Project 3: Simple Calculator using Python
+
+- **Problem:** Needed a simple tool to perform basic calculations quickly.
+- **Solution:** Developed a calculator that performs Addition, Subtraction, Multiplication, and Division.
+- **Technologies:** Python
+- **My contribution:** Wrote the complete logic and handled division by zero error.
+- **What I learned:** Python functions, conditionals, and error handling.
+- **Future improvement:** Add GUI using Tkinter.

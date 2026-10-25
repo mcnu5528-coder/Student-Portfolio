@@ -2,17 +2,17 @@
 
 ## Bachelor of Technology (B.Tech)
 - **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+- **Institution:** Aditya College Of Engineering and Technology
+- **Study period:** 2025–2028
+- **CGPA / Percentage:** 9.3
+- **Roll No:** 25P35A0542
 
 ## Relevant Coursework
 - Programming Fundamentals
 - Data Structures and Algorithms
 - Database Management Systems
-- Computer Networks
-- Software Engineering
 
 ## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+-Programming in Java Certification
+-Data Structure and Algorithms using Java Certification
+-Achieved and consistently maintained a CGPA of 9 in B.Tech.
